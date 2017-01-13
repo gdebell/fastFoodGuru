@@ -1,0 +1,13 @@
+/* add custom styles */
+
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+#about {
+  background-color: pink;
+  width: 90%;
+  height: 30%;
+  margin: 2%;
+}
